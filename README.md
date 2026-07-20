@@ -1,4 +1,5 @@
 # Project Argus
+@cornnflaecc
 
 Project Argus is an email automation service designed for financial advisors. It generates personalized client emails for key policy milestones such as birthdays, client anniversaries, and premium due reminders using DOCX templates stored in Google Drive.
 
@@ -274,6 +275,3 @@ Gmail
 
 ---
 
-## License
-
-This project is intended for internal business automation and client engagement workflows.
