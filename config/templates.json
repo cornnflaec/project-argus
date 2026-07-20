@@ -1,0 +1,17 @@
+{
+  "birthday": {
+    "folder": "template",
+    "fileName": "birthday.docx",
+    "subject": "🎉 Happy Birthday, {CLIENT_NAME}!"
+  },
+  "anniversary": {
+    "folder": "template",
+    "fileName": "anniversary.docx",
+    "subject": "🎉 Happy Policy Anniversary, {CLIENT_NAME}!"
+  },
+  "premiumDue": {
+    "folder": "template",
+    "fileName": "due-date.docx",
+    "subject": "Premium Due Reminder"
+  }
+}
